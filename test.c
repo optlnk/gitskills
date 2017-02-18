@@ -1,3 +1,4 @@
+/* This is test.c */
 #include "test.h"
 
 int main(void)
